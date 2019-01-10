@@ -1,0 +1,49 @@
+{
+  "name": "gulpnew",
+  "version": "1.0.0",
+  "description": "Gulp New Version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebrudavutoglu/gulpNew.git"
+  },
+  "keywords": [
+    "gulp",
+    "new",
+    "version"
+  ],
+  "author": "Ebru Davutoglu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ebrudavutoglu/gulpNew/issues"
+  },
+  "homepage": "https://github.com/ebrudavutoglu/gulpNew#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-minify": "^3.1.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "del": "^3.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-debug": "^4.0.0",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-inject-partials": "^1.0.4",
+    "gulp-newer": "^1.4.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1",
+    "gulp-webp": "^4.0.0",
+    "imagemin": "^6.1.0",
+    "imagemin-webp": "^5.0.0",
+    "jquery": "^3.3.1",
+    "merge-stream": "^1.0.1"
+  }
+}
